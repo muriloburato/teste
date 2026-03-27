@@ -1,0 +1,5 @@
+{
+  "name": "Comex Dashboard",
+  "description": "Foreign trade software interface connected to Supabase",
+  "requestFramePermissions": []
+}
